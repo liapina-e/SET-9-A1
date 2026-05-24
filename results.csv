@@ -1,0 +1,721 @@
+algorithm,array_type,n,time_ms,char_cmps
+QuickSort (std),random,100,0.105809,2325
+MergeSort (std),random,100,0.131958,590
+Ternary String QSort,random,100,0.0468416,615
+String MergeSort (LCP),random,100,0.222408,588
+MSD Radix Sort,random,100,0.153025,173
+MSD Radix + TStrQSort,random,100,0.038733,615
+QuickSort (std),random,200,0.2127,4877
+MergeSort (std),random,200,0.288858,1500
+Ternary String QSort,random,200,0.084825,1447
+String MergeSort (LCP),random,200,0.489825,1495
+MSD Radix Sort,random,200,0.286125,390
+MSD Radix + TStrQSort,random,200,0.0550662,429
+QuickSort (std),random,300,0.350375,7543
+MergeSort (std),random,300,0.465925,2551
+Ternary String QSort,random,300,0.128958,2117
+String MergeSort (LCP),random,300,0.78005,2534
+MSD Radix Sort,random,300,0.422583,621
+MSD Radix + TStrQSort,random,300,0.0860002,778
+QuickSort (std),random,400,0.484908,10628
+MergeSort (std),random,400,0.645733,3692
+Ternary String QSort,random,400,0.191108,3289
+String MergeSort (LCP),random,400,1.07752,3663
+MSD Radix Sort,random,400,0.466017,829
+MSD Radix + TStrQSort,random,400,0.118583,1132
+QuickSort (std),random,500,0.6025,13081
+MergeSort (std),random,500,0.833642,4865
+Ternary String QSort,random,500,0.264825,4768
+String MergeSort (LCP),random,500,1.38649,4806
+MSD Radix Sort,random,500,0.559608,1041
+MSD Radix + TStrQSort,random,500,0.158483,1566
+QuickSort (std),random,600,0.791783,17266
+MergeSort (std),random,600,1.02908,6136
+Ternary String QSort,random,600,0.291442,4925
+String MergeSort (LCP),random,600,1.7094,6066
+MSD Radix Sort,random,600,0.620917,1257
+MSD Radix + TStrQSort,random,600,0.191525,1963
+QuickSort (std),random,700,0.95275,20565
+MergeSort (std),random,700,1.23023,7445
+Ternary String QSort,random,700,0.393258,7007
+String MergeSort (LCP),random,700,2.03175,7379
+MSD Radix Sort,random,700,0.709767,1483
+MSD Radix + TStrQSort,random,700,0.229992,2382
+QuickSort (std),random,800,1.09776,24200
+MergeSort (std),random,800,1.42143,8809
+Ternary String QSort,random,800,0.419158,7332
+String MergeSort (LCP),random,800,2.35244,8711
+MSD Radix Sort,random,800,0.7817,1701
+MSD Radix + TStrQSort,random,800,0.274375,2937
+QuickSort (std),random,900,1.21778,26066
+MergeSort (std),random,900,1.62867,10168
+Ternary String QSort,random,900,0.49645,8711
+String MergeSort (LCP),random,900,2.69083,10055
+MSD Radix Sort,random,900,0.851917,1928
+MSD Radix + TStrQSort,random,900,0.317742,3420
+QuickSort (std),random,1000,1.36346,29645
+MergeSort (std),random,1000,1.8641,11610
+Ternary String QSort,random,1000,0.55145,9111
+String MergeSort (LCP),random,1000,3.19919,11440
+MSD Radix Sort,random,1000,1.04738,2160
+MSD Radix + TStrQSort,random,1000,0.374775,3909
+QuickSort (std),random,1100,1.50474,32911
+MergeSort (std),random,1100,2.0765,13078
+Ternary String QSort,random,1100,0.601859,10095
+String MergeSort (LCP),random,1100,3.41661,12899
+MSD Radix Sort,random,1100,1.07058,2387
+MSD Radix + TStrQSort,random,1100,0.407184,4478
+QuickSort (std),random,1200,1.61743,34510
+MergeSort (std),random,1200,2.27868,14536
+Ternary String QSort,random,1200,0.65645,11641
+String MergeSort (LCP),random,1200,3.68543,14332
+MSD Radix Sort,random,1200,1.1638,2618
+MSD Radix + TStrQSort,random,1200,0.479725,5106
+QuickSort (std),random,1300,1.73901,37333
+MergeSort (std),random,1300,2.5409,16058
+Ternary String QSort,random,1300,0.761317,13407
+String MergeSort (LCP),random,1300,4.07913,15846
+MSD Radix Sort,random,1300,1.21463,2849
+MSD Radix + TStrQSort,random,1300,0.494267,5679
+QuickSort (std),random,1400,1.98634,41552
+MergeSort (std),random,1400,2.78819,17593
+Ternary String QSort,random,1400,0.864117,14277
+String MergeSort (LCP),random,1400,4.52812,17375
+MSD Radix Sort,random,1400,1.39068,3096
+MSD Radix + TStrQSort,random,1400,0.560309,6292
+QuickSort (std),random,1500,2.15013,45204
+MergeSort (std),random,1500,2.97463,19127
+Ternary String QSort,random,1500,0.880958,15036
+String MergeSort (LCP),random,1500,4.93713,18865
+MSD Radix Sort,random,1500,1.86724,3331
+MSD Radix + TStrQSort,random,1500,0.965,6971
+QuickSort (std),random,1600,2.29708,47592
+MergeSort (std),random,1600,3.15355,20728
+Ternary String QSort,random,1600,0.918025,16004
+String MergeSort (LCP),random,1600,5.06971,20437
+MSD Radix Sort,random,1600,1.53492,3572
+MSD Radix + TStrQSort,random,1600,0.640642,7540
+QuickSort (std),random,1700,2.36912,51585
+MergeSort (std),random,1700,3.33017,22314
+Ternary String QSort,random,1700,1.0508,18974
+String MergeSort (LCP),random,1700,5.44518,21998
+MSD Radix Sort,random,1700,1.84038,3837
+MSD Radix + TStrQSort,random,1700,0.708283,8088
+QuickSort (std),random,1800,2.70407,58415
+MergeSort (std),random,1800,3.6883,23900
+Ternary String QSort,random,1800,1.24859,21504
+String MergeSort (LCP),random,1800,5.80852,23556
+MSD Radix Sort,random,1800,1.82019,4082
+MSD Radix + TStrQSort,random,1800,0.748017,8852
+QuickSort (std),random,1900,2.83414,62238
+MergeSort (std),random,1900,4.07581,25551
+Ternary String QSort,random,1900,1.49158,19973
+String MergeSort (LCP),random,1900,6.96652,25216
+MSD Radix Sort,random,1900,2.19676,4330
+MSD Radix + TStrQSort,random,1900,0.83975,9381
+QuickSort (std),random,2000,2.91499,63991
+MergeSort (std),random,2000,4.23212,27198
+Ternary String QSort,random,2000,1.24956,21747
+String MergeSort (LCP),random,2000,6.59458,26798
+MSD Radix Sort,random,2000,2.11342,4601
+MSD Radix + TStrQSort,random,2000,0.849333,10039
+QuickSort (std),random,2100,3.14788,68735
+MergeSort (std),random,2100,4.19281,28802
+Ternary String QSort,random,2100,1.2789,22654
+String MergeSort (LCP),random,2100,8.537,28366
+MSD Radix Sort,random,2100,2.26202,4860
+MSD Radix + TStrQSort,random,2100,0.891684,10796
+QuickSort (std),random,2200,3.26878,72348
+MergeSort (std),random,2200,4.43426,30554
+Ternary String QSort,random,2200,1.32957,23060
+String MergeSort (LCP),random,2200,7.23417,30118
+MSD Radix Sort,random,2200,2.40737,5128
+MSD Radix + TStrQSort,random,2200,0.978117,11323
+QuickSort (std),random,2300,3.36954,70989
+MergeSort (std),random,2300,4.93383,32249
+Ternary String QSort,random,2300,1.56062,25082
+String MergeSort (LCP),random,2300,7.73786,31810
+MSD Radix Sort,random,2300,2.79394,5391
+MSD Radix + TStrQSort,random,2300,1.0608,12013
+QuickSort (std),random,2400,4.77113,80058
+MergeSort (std),random,2400,9.84472,33988
+Ternary String QSort,random,2400,1.78195,28306
+String MergeSort (LCP),random,2400,10.588,33494
+MSD Radix Sort,random,2400,4.24543,5659
+MSD Radix + TStrQSort,random,2400,1.72703,12600
+QuickSort (std),random,2500,8.25891,81026
+MergeSort (std),random,2500,18.3065,35751
+Ternary String QSort,random,2500,3.22716,27085
+String MergeSort (LCP),random,2500,22.6787,35254
+MSD Radix Sort,random,2500,4.84815,5912
+MSD Radix + TStrQSort,random,2500,2.19735,13287
+QuickSort (std),random,2600,5.71133,84891
+MergeSort (std),random,2600,10.104,37418
+Ternary String QSort,random,2600,2.99292,29565
+String MergeSort (LCP),random,2600,14.8604,36871
+MSD Radix Sort,random,2600,5.50323,6165
+MSD Radix + TStrQSort,random,2600,2.27375,13913
+QuickSort (std),random,2700,9.04508,86833
+MergeSort (std),random,2700,8.82408,39220
+Ternary String QSort,random,2700,2.31266,29717
+String MergeSort (LCP),random,2700,12.501,38668
+MSD Radix Sort,random,2700,3.6491,6449
+MSD Radix + TStrQSort,random,2700,1.37286,14507
+QuickSort (std),random,2800,4.68194,89855
+MergeSort (std),random,2800,10.0226,40891
+Ternary String QSort,random,2800,2.26908,30320
+String MergeSort (LCP),random,2800,12.093,40349
+MSD Radix Sort,random,2800,3.91089,6715
+MSD Radix + TStrQSort,random,2800,1.48227,15331
+QuickSort (std),random,2900,5.04797,97191
+MergeSort (std),random,2900,7.00117,42684
+Ternary String QSort,random,2900,2.23265,32596
+String MergeSort (LCP),random,2900,10.1368,42149
+MSD Radix Sort,random,2900,3.51694,6993
+MSD Radix + TStrQSort,random,2900,1.3454,16294
+QuickSort (std),random,3000,4.53834,100359
+MergeSort (std),random,3000,6.33263,44497
+Ternary String QSort,random,3000,1.98426,34184
+String MergeSort (LCP),random,3000,10.2501,43874
+MSD Radix Sort,random,3000,3.71844,7277
+MSD Radix + TStrQSort,random,3000,1.37573,16955
+QuickSort (std),reverse_sorted,100,0.0852,1956
+MergeSort (std),reverse_sorted,100,0.117842,594
+Ternary String QSort,reverse_sorted,100,0.036,616
+String MergeSort (LCP),reverse_sorted,100,0.19645,437
+MSD Radix Sort,reverse_sorted,100,0.135517,245
+MSD Radix + TStrQSort,reverse_sorted,100,0.0345166,616
+QuickSort (std),reverse_sorted,200,0.194392,4360
+MergeSort (std),reverse_sorted,200,0.255183,1281
+Ternary String QSort,reverse_sorted,200,0.0695168,1239
+String MergeSort (LCP),reverse_sorted,200,0.427441,971
+MSD Radix Sort,reverse_sorted,200,0.257692,485
+MSD Radix + TStrQSort,reverse_sorted,200,0.080525,882
+QuickSort (std),reverse_sorted,300,0.281625,6033
+MergeSort (std),reverse_sorted,300,0.403025,2070
+Ternary String QSort,reverse_sorted,300,0.114075,2055
+String MergeSort (LCP),reverse_sorted,300,0.672525,1544
+MSD Radix Sort,reverse_sorted,300,0.389966,734
+MSD Radix + TStrQSort,reverse_sorted,300,0.120783,1377
+QuickSort (std),reverse_sorted,400,0.459225,10611
+MergeSort (std),reverse_sorted,400,0.551209,2814
+Ternary String QSort,reverse_sorted,400,0.148225,2721
+String MergeSort (LCP),reverse_sorted,400,0.930825,2148
+MSD Radix Sort,reverse_sorted,400,0.512517,976
+MSD Radix + TStrQSort,reverse_sorted,400,0.158067,1826
+QuickSort (std),reverse_sorted,500,0.631175,14889
+MergeSort (std),reverse_sorted,500,0.704283,3749
+Ternary String QSort,reverse_sorted,500,0.195625,3620
+String MergeSort (LCP),reverse_sorted,500,1.17664,2823
+MSD Radix Sort,reverse_sorted,500,0.63685,1222
+MSD Radix + TStrQSort,reverse_sorted,500,0.200392,2310
+QuickSort (std),reverse_sorted,600,0.636625,13779
+MergeSort (std),reverse_sorted,600,0.860975,4453
+Ternary String QSort,reverse_sorted,600,0.243392,4546
+String MergeSort (LCP),reverse_sorted,600,1.43824,3390
+MSD Radix Sort,reverse_sorted,600,0.759917,1467
+MSD Radix + TStrQSort,reverse_sorted,600,0.2392,2806
+QuickSort (std),reverse_sorted,700,0.882642,20392
+MergeSort (std),reverse_sorted,700,1.01818,5233
+Ternary String QSort,reverse_sorted,700,0.29275,5491
+String MergeSort (LCP),reverse_sorted,700,1.71115,4027
+MSD Radix Sort,reverse_sorted,700,0.8953,1717
+MSD Radix + TStrQSort,reverse_sorted,700,0.279416,3291
+QuickSort (std),reverse_sorted,800,1.04067,23835
+MergeSort (std),reverse_sorted,800,1.18033,6102
+Ternary String QSort,reverse_sorted,800,0.333633,6216
+String MergeSort (LCP),reverse_sorted,800,1.96841,4700
+MSD Radix Sort,reverse_sorted,800,1.02563,1957
+MSD Radix + TStrQSort,reverse_sorted,800,0.322842,3755
+QuickSort (std),reverse_sorted,900,0.962717,19502
+MergeSort (std),reverse_sorted,900,1.34655,7086
+Ternary String QSort,reverse_sorted,900,0.379517,7119
+String MergeSort (LCP),reverse_sorted,900,2.24252,5397
+MSD Radix Sort,reverse_sorted,900,1.15951,2201
+MSD Radix + TStrQSort,reverse_sorted,900,0.361,4232
+QuickSort (std),reverse_sorted,1000,1.33821,30611
+MergeSort (std),reverse_sorted,1000,1.50638,8038
+Ternary String QSort,reverse_sorted,1000,0.43755,8219
+String MergeSort (LCP),reverse_sorted,1000,2.51922,6145
+MSD Radix Sort,reverse_sorted,1000,1.26779,2442
+MSD Radix + TStrQSort,reverse_sorted,1000,0.406792,4725
+QuickSort (std),reverse_sorted,1100,1.54093,35358
+MergeSort (std),reverse_sorted,1100,1.68815,8706
+Ternary String QSort,reverse_sorted,1100,0.4855,9026
+String MergeSort (LCP),reverse_sorted,1100,2.81249,6750
+MSD Radix Sort,reverse_sorted,1100,1.39209,2676
+MSD Radix + TStrQSort,reverse_sorted,1100,0.445608,5171
+QuickSort (std),reverse_sorted,1200,1.45275,30918
+MergeSort (std),reverse_sorted,1200,1.84335,9550
+Ternary String QSort,reverse_sorted,1200,0.560983,10017
+String MergeSort (LCP),reverse_sorted,1200,3.09387,7374
+MSD Radix Sort,reverse_sorted,1200,1.51667,2925
+MSD Radix + TStrQSort,reverse_sorted,1200,0.476217,5669
+QuickSort (std),reverse_sorted,1300,1.46003,29634
+MergeSort (std),reverse_sorted,1300,1.99308,10287
+Ternary String QSort,reverse_sorted,1300,0.5887,11087
+String MergeSort (LCP),reverse_sorted,1300,3.35349,8053
+MSD Radix Sort,reverse_sorted,1300,1.63341,3167
+MSD Radix + TStrQSort,reverse_sorted,1300,0.52465,6132
+QuickSort (std),reverse_sorted,1400,1.87637,42300
+MergeSort (std),reverse_sorted,1400,2.17956,11209
+Ternary String QSort,reverse_sorted,1400,0.640158,12066
+String MergeSort (LCP),reverse_sorted,1400,3.63857,8735
+MSD Radix Sort,reverse_sorted,1400,1.74827,3405
+MSD Radix + TStrQSort,reverse_sorted,1400,0.55765,6588
+QuickSort (std),reverse_sorted,1500,2.29763,54439
+MergeSort (std),reverse_sorted,1500,2.38232,12103
+Ternary String QSort,reverse_sorted,1500,0.686042,13016
+String MergeSort (LCP),reverse_sorted,1500,3.94727,9479
+MSD Radix Sort,reverse_sorted,1500,1.87456,3653
+MSD Radix + TStrQSort,reverse_sorted,1500,0.595742,7056
+QuickSort (std),reverse_sorted,1600,2.28438,52777
+MergeSort (std),reverse_sorted,1600,2.50648,12970
+Ternary String QSort,reverse_sorted,1600,0.735542,13943
+String MergeSort (LCP),reverse_sorted,1600,4.18295,10189
+MSD Radix Sort,reverse_sorted,1600,1.99571,3889
+MSD Radix + TStrQSort,reverse_sorted,1600,0.633683,7541
+QuickSort (std),reverse_sorted,1700,2.12401,44269
+MergeSort (std),reverse_sorted,1700,2.67338,13960
+Ternary String QSort,reverse_sorted,1700,0.78625,14898
+String MergeSort (LCP),reverse_sorted,1700,4.48157,10881
+MSD Radix Sort,reverse_sorted,1700,2.15809,4119
+MSD Radix + TStrQSort,reverse_sorted,1700,0.671125,7987
+QuickSort (std),reverse_sorted,1800,2.04676,40663
+MergeSort (std),reverse_sorted,1800,2.86226,14992
+Ternary String QSort,reverse_sorted,1800,0.838658,15917
+String MergeSort (LCP),reverse_sorted,1800,4.76446,11671
+MSD Radix Sort,reverse_sorted,1800,2.74022,4358
+MSD Radix + TStrQSort,reverse_sorted,1800,0.714258,8438
+QuickSort (std),reverse_sorted,1900,2.55268,54527
+MergeSort (std),reverse_sorted,1900,3.02373,15893
+Ternary String QSort,reverse_sorted,1900,0.88025,16864
+String MergeSort (LCP),reverse_sorted,1900,5.0471,12429
+MSD Radix Sort,reverse_sorted,1900,2.31033,4599
+MSD Radix + TStrQSort,reverse_sorted,1900,0.749158,8903
+QuickSort (std),reverse_sorted,2000,2.87995,65665
+MergeSort (std),reverse_sorted,2000,3.18849,17031
+Ternary String QSort,reverse_sorted,2000,0.948591,18015
+String MergeSort (LCP),reverse_sorted,2000,5.34374,13266
+MSD Radix Sort,reverse_sorted,2000,2.43931,4835
+MSD Radix + TStrQSort,reverse_sorted,2000,0.798934,9341
+QuickSort (std),reverse_sorted,2100,3.08559,70306
+MergeSort (std),reverse_sorted,2100,3.36959,17921
+Ternary String QSort,reverse_sorted,2100,1.00383,19161
+String MergeSort (LCP),reverse_sorted,2100,5.6776,13985
+MSD Radix Sort,reverse_sorted,2100,2.58,5088
+MSD Radix + TStrQSort,reverse_sorted,2100,0.840217,9804
+QuickSort (std),reverse_sorted,2200,3.34563,74928
+MergeSort (std),reverse_sorted,2200,3.53869,18556
+Ternary String QSort,reverse_sorted,2200,1.07778,20246
+String MergeSort (LCP),reverse_sorted,2200,5.91945,14591
+MSD Radix Sort,reverse_sorted,2200,2.70354,5332
+MSD Radix + TStrQSort,reverse_sorted,2200,0.88235,10287
+QuickSort (std),reverse_sorted,2300,3.32478,76050
+MergeSort (std),reverse_sorted,2300,3.73345,19558
+Ternary String QSort,reverse_sorted,2300,1.11847,21202
+String MergeSort (LCP),reverse_sorted,2300,6.20747,15281
+MSD Radix Sort,reverse_sorted,2300,2.83917,5572
+MSD Radix + TStrQSort,reverse_sorted,2300,0.922358,10734
+QuickSort (std),reverse_sorted,2400,3.12627,65948
+MergeSort (std),reverse_sorted,2400,4.01203,20171
+Ternary String QSort,reverse_sorted,2400,1.18805,22257
+String MergeSort (LCP),reverse_sorted,2400,6.53021,15932
+MSD Radix Sort,reverse_sorted,2400,2.94978,5817
+MSD Radix + TStrQSort,reverse_sorted,2400,0.955908,11211
+QuickSort (std),reverse_sorted,2500,3.01,59867
+MergeSort (std),reverse_sorted,2500,4.05839,21021
+Ternary String QSort,reverse_sorted,2500,1.23132,23295
+String MergeSort (LCP),reverse_sorted,2500,6.79257,16664
+MSD Radix Sort,reverse_sorted,2500,3.07013,6059
+MSD Radix + TStrQSort,reverse_sorted,2500,0.99955,11665
+QuickSort (std),reverse_sorted,2600,3.17237,62537
+MergeSort (std),reverse_sorted,2600,4.24536,21801
+Ternary String QSort,reverse_sorted,2600,1.28391,24525
+String MergeSort (LCP),reverse_sorted,2600,7.09571,17389
+MSD Radix Sort,reverse_sorted,2600,3.18962,6297
+MSD Radix + TStrQSort,reverse_sorted,2600,1.05083,12114
+QuickSort (std),reverse_sorted,2700,3.58751,75078
+MergeSort (std),reverse_sorted,2700,4.38305,22656
+Ternary String QSort,reverse_sorted,2700,1.37287,25919
+String MergeSort (LCP),reverse_sorted,2700,7.40603,18090
+MSD Radix Sort,reverse_sorted,2700,3.31423,6542
+MSD Radix + TStrQSort,reverse_sorted,2700,1.08495,12592
+QuickSort (std),reverse_sorted,2800,4.00789,90935
+MergeSort (std),reverse_sorted,2800,4.58785,23836
+Ternary String QSort,reverse_sorted,2800,1.40806,26753
+String MergeSort (LCP),reverse_sorted,2800,7.68758,18859
+MSD Radix Sort,reverse_sorted,2800,3.46838,6784
+MSD Radix + TStrQSort,reverse_sorted,2800,1.11156,13039
+QuickSort (std),reverse_sorted,2900,4.45816,103433
+MergeSort (std),reverse_sorted,2900,4.7742,24698
+Ternary String QSort,reverse_sorted,2900,1.45699,27965
+String MergeSort (LCP),reverse_sorted,2900,8.00145,19616
+MSD Radix Sort,reverse_sorted,2900,3.5631,7032
+MSD Radix + TStrQSort,reverse_sorted,2900,1.16037,13526
+QuickSort (std),reverse_sorted,3000,4.83431,113756
+MergeSort (std),reverse_sorted,3000,4.96388,25792
+Ternary String QSort,reverse_sorted,3000,1.51701,29045
+String MergeSort (LCP),reverse_sorted,3000,8.33801,20450
+MSD Radix Sort,reverse_sorted,3000,3.7039,7280
+MSD Radix + TStrQSort,reverse_sorted,3000,1.19884,14020
+QuickSort (std),nearly_sorted,100,0.0747084,1790
+MergeSort (std),nearly_sorted,100,0.120725,685
+Ternary String QSort,nearly_sorted,100,0.0326498,579
+String MergeSort (LCP),nearly_sorted,100,0.2005,477
+MSD Radix Sort,nearly_sorted,100,0.1252,242
+MSD Radix + TStrQSort,nearly_sorted,100,0.0322666,579
+QuickSort (std),nearly_sorted,200,0.196492,4711
+MergeSort (std),nearly_sorted,200,0.266742,1564
+Ternary String QSort,nearly_sorted,200,0.069325,1245
+String MergeSort (LCP),nearly_sorted,200,0.449691,1180
+MSD Radix Sort,nearly_sorted,200,0.249625,479
+MSD Radix + TStrQSort,nearly_sorted,200,0.0810416,892
+QuickSort (std),nearly_sorted,300,0.314575,7332
+MergeSort (std),nearly_sorted,300,0.434825,2727
+Ternary String QSort,nearly_sorted,300,0.113158,2092
+String MergeSort (LCP),nearly_sorted,300,0.733358,2114
+MSD Radix Sort,nearly_sorted,300,0.3499,713
+MSD Radix + TStrQSort,nearly_sorted,300,0.124725,1402
+QuickSort (std),nearly_sorted,400,0.419775,9898
+MergeSort (std),nearly_sorted,400,0.606808,3740
+Ternary String QSort,nearly_sorted,400,0.155325,2814
+String MergeSort (LCP),nearly_sorted,400,1.0055,2986
+MSD Radix Sort,nearly_sorted,400,0.4701,947
+MSD Radix + TStrQSort,nearly_sorted,400,0.161234,1852
+QuickSort (std),nearly_sorted,500,0.640883,15535
+MergeSort (std),nearly_sorted,500,0.7528,4658
+Ternary String QSort,nearly_sorted,500,0.202633,3657
+String MergeSort (LCP),nearly_sorted,500,1.27421,3785
+MSD Radix Sort,nearly_sorted,500,0.573333,1181
+MSD Radix + TStrQSort,nearly_sorted,500,0.201225,2327
+QuickSort (std),nearly_sorted,600,0.704408,16080
+MergeSort (std),nearly_sorted,600,0.9515,6212
+Ternary String QSort,nearly_sorted,600,0.24965,4552
+String MergeSort (LCP),nearly_sorted,600,1.60549,5019
+MSD Radix Sort,nearly_sorted,600,0.686317,1416
+MSD Radix + TStrQSort,nearly_sorted,600,0.24225,2813
+QuickSort (std),nearly_sorted,700,0.804808,18294
+MergeSort (std),nearly_sorted,700,1.12862,7307
+Ternary String QSort,nearly_sorted,700,0.306883,5747
+String MergeSort (LCP),nearly_sorted,700,1.89061,5937
+MSD Radix Sort,nearly_sorted,700,0.821158,1660
+MSD Radix + TStrQSort,nearly_sorted,700,0.281875,3292
+QuickSort (std),nearly_sorted,800,0.915866,20761
+MergeSort (std),nearly_sorted,800,1.30703,8542
+Ternary String QSort,nearly_sorted,800,0.365542,6965
+String MergeSort (LCP),nearly_sorted,800,2.20224,6967
+MSD Radix Sort,nearly_sorted,800,0.950758,1899
+MSD Radix + TStrQSort,nearly_sorted,800,0.321425,3771
+QuickSort (std),nearly_sorted,900,1.07306,24890
+MergeSort (std),nearly_sorted,900,1.48287,9650
+Ternary String QSort,nearly_sorted,900,0.397958,7431
+String MergeSort (LCP),nearly_sorted,900,2.50162,7922
+MSD Radix Sort,nearly_sorted,900,1.05632,2134
+MSD Radix + TStrQSort,nearly_sorted,900,0.360625,4221
+QuickSort (std),nearly_sorted,1000,1.30842,30930
+MergeSort (std),nearly_sorted,1000,1.65009,10662
+Ternary String QSort,nearly_sorted,1000,0.455383,8577
+String MergeSort (LCP),nearly_sorted,1000,2.78612,8832
+MSD Radix Sort,nearly_sorted,1000,1.1911,2382
+MSD Radix + TStrQSort,nearly_sorted,1000,0.405917,4732
+QuickSort (std),nearly_sorted,1100,1.463,35107
+MergeSort (std),nearly_sorted,1100,1.85627,12170
+Ternary String QSort,nearly_sorted,1100,0.500408,9126
+String MergeSort (LCP),nearly_sorted,1100,3.13999,10039
+MSD Radix Sort,nearly_sorted,1100,1.31541,2618
+MSD Radix + TStrQSort,nearly_sorted,1100,0.443675,5211
+QuickSort (std),nearly_sorted,1200,1.57808,37122
+MergeSort (std),nearly_sorted,1200,2.04934,13674
+Ternary String QSort,nearly_sorted,1200,0.555133,10199
+String MergeSort (LCP),nearly_sorted,1200,3.48408,11090
+MSD Radix Sort,nearly_sorted,1200,1.40732,2855
+MSD Radix + TStrQSort,nearly_sorted,1200,0.487666,5712
+QuickSort (std),nearly_sorted,1300,1.64057,38563
+MergeSort (std),nearly_sorted,1300,2.22178,14779
+Ternary String QSort,nearly_sorted,1300,0.6011,11431
+String MergeSort (LCP),nearly_sorted,1300,3.74293,12001
+MSD Radix Sort,nearly_sorted,1300,1.52936,3097
+MSD Radix + TStrQSort,nearly_sorted,1300,0.533808,6180
+QuickSort (std),nearly_sorted,1400,1.81322,43263
+MergeSort (std),nearly_sorted,1400,2.41722,16052
+Ternary String QSort,nearly_sorted,1400,0.6381,12078
+String MergeSort (LCP),nearly_sorted,1400,4.05017,13089
+MSD Radix Sort,nearly_sorted,1400,1.67927,3344
+MSD Radix + TStrQSort,nearly_sorted,1400,0.580792,6656
+QuickSort (std),nearly_sorted,1500,1.87713,42810
+MergeSort (std),nearly_sorted,1500,2.62515,17192
+Ternary String QSort,nearly_sorted,1500,0.721058,13439
+String MergeSort (LCP),nearly_sorted,1500,4.3971,14019
+MSD Radix Sort,nearly_sorted,1500,1.80987,3591
+MSD Radix + TStrQSort,nearly_sorted,1500,0.609375,7121
+QuickSort (std),nearly_sorted,1600,2.0615,48926
+MergeSort (std),nearly_sorted,1600,2.81603,18659
+Ternary String QSort,nearly_sorted,1600,0.774984,14590
+String MergeSort (LCP),nearly_sorted,1600,4.70984,15274
+MSD Radix Sort,nearly_sorted,1600,1.9208,3825
+MSD Radix + TStrQSort,nearly_sorted,1600,0.651592,7607
+QuickSort (std),nearly_sorted,1700,2.16957,52125
+MergeSort (std),nearly_sorted,1700,3.0163,20193
+Ternary String QSort,nearly_sorted,1700,0.830567,15707
+String MergeSort (LCP),nearly_sorted,1700,5.04044,16464
+MSD Radix Sort,nearly_sorted,1700,2.03602,4069
+MSD Radix + TStrQSort,nearly_sorted,1700,0.692875,8093
+QuickSort (std),nearly_sorted,1800,2.39309,55844
+MergeSort (std),nearly_sorted,1800,3.22099,21229
+Ternary String QSort,nearly_sorted,1800,0.8579,16144
+String MergeSort (LCP),nearly_sorted,1800,5.32605,17225
+MSD Radix Sort,nearly_sorted,1800,2.15973,4312
+MSD Radix + TStrQSort,nearly_sorted,1800,0.725717,8580
+QuickSort (std),nearly_sorted,1900,2.42879,57427
+MergeSort (std),nearly_sorted,1900,3.38681,22834
+Ternary String QSort,nearly_sorted,1900,0.925575,17707
+String MergeSort (LCP),nearly_sorted,1900,5.65831,18609
+MSD Radix Sort,nearly_sorted,1900,2.26496,4547
+MSD Radix + TStrQSort,nearly_sorted,1900,0.769133,9052
+QuickSort (std),nearly_sorted,2000,2.61478,61701
+MergeSort (std),nearly_sorted,2000,3.53807,23597
+Ternary String QSort,nearly_sorted,2000,0.963867,18515
+String MergeSort (LCP),nearly_sorted,2000,5.95739,19313
+MSD Radix Sort,nearly_sorted,2000,2.35991,4784
+MSD Radix + TStrQSort,nearly_sorted,2000,0.809434,9533
+QuickSort (std),nearly_sorted,2100,2.92915,67943
+MergeSort (std),nearly_sorted,2100,3.75236,24943
+Ternary String QSort,nearly_sorted,2100,1.03905,19552
+String MergeSort (LCP),nearly_sorted,2100,6.30942,20385
+MSD Radix Sort,nearly_sorted,2100,2.52777,5045
+MSD Radix + TStrQSort,nearly_sorted,2100,0.85475,10036
+QuickSort (std),nearly_sorted,2200,2.98072,70231
+MergeSort (std),nearly_sorted,2200,3.96131,26880
+Ternary String QSort,nearly_sorted,2200,1.07875,20504
+String MergeSort (LCP),nearly_sorted,2200,6.64024,21971
+MSD Radix Sort,nearly_sorted,2200,2.65177,5292
+MSD Radix + TStrQSort,nearly_sorted,2200,0.902308,10541
+QuickSort (std),nearly_sorted,2300,3.25387,77096
+MergeSort (std),nearly_sorted,2300,4.16833,28006
+Ternary String QSort,nearly_sorted,2300,1.11583,21280
+String MergeSort (LCP),nearly_sorted,2300,6.98103,22552
+MSD Radix Sort,nearly_sorted,2300,2.75956,5529
+MSD Radix + TStrQSort,nearly_sorted,2300,0.9429,11059
+QuickSort (std),nearly_sorted,2400,3.22029,74545
+MergeSort (std),nearly_sorted,2400,4.41945,29778
+Ternary String QSort,nearly_sorted,2400,1.18965,22716
+String MergeSort (LCP),nearly_sorted,2400,7.36268,24011
+MSD Radix Sort,nearly_sorted,2400,2.88949,5775
+MSD Radix + TStrQSort,nearly_sorted,2400,0.986058,11562
+QuickSort (std),nearly_sorted,2500,3.43016,82543
+MergeSort (std),nearly_sorted,2500,4.59986,31188
+Ternary String QSort,nearly_sorted,2500,1.24668,23529
+String MergeSort (LCP),nearly_sorted,2500,7.66132,25084
+MSD Radix Sort,nearly_sorted,2500,3.00981,6025
+MSD Radix + TStrQSort,nearly_sorted,2500,1.02707,12051
+QuickSort (std),nearly_sorted,2600,3.40727,80050
+MergeSort (std),nearly_sorted,2600,4.79729,32658
+Ternary String QSort,nearly_sorted,2600,1.30659,24592
+String MergeSort (LCP),nearly_sorted,2600,8.01265,26331
+MSD Radix Sort,nearly_sorted,2600,3.19377,6274
+MSD Radix + TStrQSort,nearly_sorted,2600,1.07002,12537
+QuickSort (std),nearly_sorted,2700,3.58243,85224
+MergeSort (std),nearly_sorted,2700,4.98088,33621
+Ternary String QSort,nearly_sorted,2700,1.35734,25668
+String MergeSort (LCP),nearly_sorted,2700,8.27178,26850
+MSD Radix Sort,nearly_sorted,2700,3.25657,6520
+MSD Radix + TStrQSort,nearly_sorted,2700,1.10313,13025
+QuickSort (std),nearly_sorted,2800,3.7584,90072
+MergeSort (std),nearly_sorted,2800,5.19363,35189
+Ternary String QSort,nearly_sorted,2800,1.42765,26682
+String MergeSort (LCP),nearly_sorted,2800,8.6877,28222
+MSD Radix Sort,nearly_sorted,2800,3.39316,6769
+MSD Radix + TStrQSort,nearly_sorted,2800,1.14842,13509
+QuickSort (std),nearly_sorted,2900,4.3062,107103
+MergeSort (std),nearly_sorted,2900,5.38197,36479
+Ternary String QSort,nearly_sorted,2900,1.50607,27947
+String MergeSort (LCP),nearly_sorted,2900,8.95104,29330
+MSD Radix Sort,nearly_sorted,2900,3.50674,7003
+MSD Radix + TStrQSort,nearly_sorted,2900,1.18617,13996
+QuickSort (std),nearly_sorted,3000,2.54971,52554
+MergeSort (std),nearly_sorted,3000,5.5428,37357
+Ternary String QSort,nearly_sorted,3000,1.60756,29780
+String MergeSort (LCP),nearly_sorted,3000,9.30994,29937
+MSD Radix Sort,nearly_sorted,3000,3.64149,7260
+MSD Radix + TStrQSort,nearly_sorted,3000,1.22633,14557
+QuickSort (std),common_prefix,100,1.04068,35226
+MergeSort (std),common_prefix,100,0.900417,28311
+Ternary String QSort,common_prefix,100,0.165775,5571
+String MergeSort (LCP),common_prefix,100,0.3441,5558
+MSD Radix Sort,common_prefix,100,1.03539,5175
+MSD Radix + TStrQSort,common_prefix,100,0.167283,5571
+QuickSort (std),common_prefix,200,2.2393,78630
+MergeSort (std),common_prefix,200,2.06673,66360
+Ternary String QSort,common_prefix,200,0.341392,11387
+String MergeSort (LCP),common_prefix,200,0.739967,11447
+MSD Radix Sort,common_prefix,200,1.85104,10391
+MSD Radix + TStrQSort,common_prefix,200,1.61927,10412
+QuickSort (std),common_prefix,300,3.61744,128267
+MergeSort (std),common_prefix,300,3.33107,107509
+Ternary String QSort,common_prefix,300,0.497408,17177
+String MergeSort (LCP),common_prefix,300,1.14589,17432
+MSD Radix Sort,common_prefix,300,2.6151,15605
+MSD Radix + TStrQSort,common_prefix,300,2.31388,15704
+QuickSort (std),common_prefix,400,5.03557,178591
+MergeSort (std),common_prefix,400,4.71643,152577
+Ternary String QSort,common_prefix,400,0.681966,22903
+String MergeSort (LCP),common_prefix,400,1.54222,23549
+MSD Radix Sort,common_prefix,400,3.39971,20823
+MSD Radix + TStrQSort,common_prefix,400,3.07819,21100
+QuickSort (std),common_prefix,500,6.88047,243773
+MergeSort (std),common_prefix,500,6.10499,198171
+Ternary String QSort,common_prefix,500,0.842167,29123
+String MergeSort (LCP),common_prefix,500,1.95719,29719
+MSD Radix Sort,common_prefix,500,4.11592,26041
+MSD Radix + TStrQSort,common_prefix,500,3.72238,26498
+QuickSort (std),common_prefix,600,8.43365,299624
+MergeSort (std),common_prefix,600,7.57143,245968
+Ternary String QSort,common_prefix,600,1.01525,35023
+String MergeSort (LCP),common_prefix,600,2.46224,35991
+MSD Radix Sort,common_prefix,600,4.89139,31262
+MSD Radix + TStrQSort,common_prefix,600,4.45832,31939
+QuickSort (std),common_prefix,700,10.5135,366621
+MergeSort (std),common_prefix,700,9.08447,294951
+Ternary String QSort,common_prefix,700,1.20404,40732
+String MergeSort (LCP),common_prefix,700,2.82794,42271
+MSD Radix Sort,common_prefix,700,5.54109,36468
+MSD Radix + TStrQSort,common_prefix,700,5.1392,37390
+QuickSort (std),common_prefix,800,11.7517,416091
+MergeSort (std),common_prefix,800,10.6113,344993
+Ternary String QSort,common_prefix,800,1.39176,47579
+String MergeSort (LCP),common_prefix,800,3.25011,48609
+MSD Radix Sort,common_prefix,800,6.33242,41690
+MSD Radix + TStrQSort,common_prefix,800,5.84087,42931
+QuickSort (std),common_prefix,900,13.2234,469784
+MergeSort (std),common_prefix,900,12.1286,394620
+Ternary String QSort,common_prefix,900,1.52889,53045
+String MergeSort (LCP),common_prefix,900,3.69987,54957
+MSD Radix Sort,common_prefix,900,7.07161,46929
+MSD Radix + TStrQSort,common_prefix,900,6.57354,48359
+QuickSort (std),common_prefix,1000,14.975,531356
+MergeSort (std),common_prefix,1000,13.7254,446976
+Ternary String QSort,common_prefix,1000,1.73537,59650
+String MergeSort (LCP),common_prefix,1000,4.2998,61404
+MSD Radix Sort,common_prefix,1000,7.89518,52156
+MSD Radix + TStrQSort,common_prefix,1000,7.29552,53928
+QuickSort (std),common_prefix,1100,17.3312,616196
+MergeSort (std),common_prefix,1100,15.2843,497983
+Ternary String QSort,common_prefix,1100,1.96093,65238
+String MergeSort (LCP),common_prefix,1100,4.60813,67785
+MSD Radix Sort,common_prefix,1100,8.64579,57392
+MSD Radix + TStrQSort,common_prefix,1100,7.96351,59411
+QuickSort (std),common_prefix,1200,18.4298,655297
+MergeSort (std),common_prefix,1200,16.9263,551596
+Ternary String QSort,common_prefix,1200,2.05279,70567
+String MergeSort (LCP),common_prefix,1200,5.09408,74249
+MSD Radix Sort,common_prefix,1200,9.39044,62628
+MSD Radix + TStrQSort,common_prefix,1200,8.77724,64953
+QuickSort (std),common_prefix,1300,20.7023,735978
+MergeSort (std),common_prefix,1300,19.5888,607452
+Ternary String QSort,common_prefix,1300,2.33646,78712
+String MergeSort (LCP),common_prefix,1300,5.6651,80773
+MSD Radix Sort,common_prefix,1300,10.4557,67878
+MSD Radix + TStrQSort,common_prefix,1300,9.49617,70614
+QuickSort (std),common_prefix,1400,22.1246,786281
+MergeSort (std),common_prefix,1400,20.3586,661210
+Ternary String QSort,common_prefix,1400,2.53953,85131
+String MergeSort (LCP),common_prefix,1400,5.97347,87297
+MSD Radix Sort,common_prefix,1400,11.1428,73106
+MSD Radix + TStrQSort,common_prefix,1400,10.3918,76202
+QuickSort (std),common_prefix,1500,24.8377,877941
+MergeSort (std),common_prefix,1500,21.9783,716269
+Ternary String QSort,common_prefix,1500,2.76326,90674
+String MergeSort (LCP),common_prefix,1500,6.43115,93846
+MSD Radix Sort,common_prefix,1500,11.8924,78349
+MSD Radix + TStrQSort,common_prefix,1500,11.068,82064
+QuickSort (std),common_prefix,1600,27.7277,982568
+MergeSort (std),common_prefix,1600,23.7131,772770
+Ternary String QSort,common_prefix,1600,2.84892,96197
+String MergeSort (LCP),common_prefix,1600,6.89032,100389
+MSD Radix Sort,common_prefix,1600,12.6131,83600
+MSD Radix + TStrQSort,common_prefix,1600,11.6359,87484
+QuickSort (std),common_prefix,1700,28.1092,999565
+MergeSort (std),common_prefix,1700,25.3203,826386
+Ternary String QSort,common_prefix,1700,3.03284,102848
+String MergeSort (LCP),common_prefix,1700,7.39182,106866
+MSD Radix Sort,common_prefix,1700,13.3766,88846
+MSD Radix + TStrQSort,common_prefix,1700,12.3651,93260
+QuickSort (std),common_prefix,1800,32.4969,1156008
+MergeSort (std),common_prefix,1800,27.1148,883988
+Ternary String QSort,common_prefix,1800,3.34467,110462
+String MergeSort (LCP),common_prefix,1800,8.40483,113483
+MSD Radix Sort,common_prefix,1800,14.3832,94080
+MSD Radix + TStrQSort,common_prefix,1800,13.1752,98717
+QuickSort (std),common_prefix,1900,32.094,1141029
+MergeSort (std),common_prefix,1900,28.7573,939620
+Ternary String QSort,common_prefix,1900,3.4034,115572
+String MergeSort (LCP),common_prefix,1900,8.30417,120083
+MSD Radix Sort,common_prefix,1900,15.0243,99345
+MSD Radix + TStrQSort,common_prefix,1900,13.8189,104292
+QuickSort (std),common_prefix,2000,34.5474,1222412
+MergeSort (std),common_prefix,2000,30.5693,999520
+Ternary String QSort,common_prefix,2000,3.60654,121473
+String MergeSort (LCP),common_prefix,2000,8.76296,126766
+MSD Radix Sort,common_prefix,2000,15.8098,104605
+MSD Radix + TStrQSort,common_prefix,2000,14.5057,110131
+QuickSort (std),common_prefix,2100,36.493,1292804
+MergeSort (std),common_prefix,2100,32.221,1053674
+Ternary String QSort,common_prefix,2100,3.87146,128257
+String MergeSort (LCP),common_prefix,2100,9.22388,133315
+MSD Radix Sort,common_prefix,2100,16.6601,109861
+MSD Radix + TStrQSort,common_prefix,2100,15.2903,115933
+QuickSort (std),common_prefix,2200,37.6108,1334867
+MergeSort (std),common_prefix,2200,34.0511,1113239
+Ternary String QSort,common_prefix,2200,3.99342,134857
+String MergeSort (LCP),common_prefix,2200,9.76832,140023
+MSD Radix Sort,common_prefix,2200,17.5485,115133
+MSD Radix + TStrQSort,common_prefix,2200,15.9816,121517
+QuickSort (std),common_prefix,2300,39.9184,1419574
+MergeSort (std),common_prefix,2300,35.8606,1172706
+Ternary String QSort,common_prefix,2300,4.18844,139946
+String MergeSort (LCP),common_prefix,2300,10.2149,146670
+MSD Radix Sort,common_prefix,2300,18.2708,120379
+MSD Radix + TStrQSort,common_prefix,2300,16.6866,127200
+QuickSort (std),common_prefix,2400,41.3597,1464703
+MergeSort (std),common_prefix,2400,37.5827,1230764
+Ternary String QSort,common_prefix,2400,4.33041,146666
+String MergeSort (LCP),common_prefix,2400,10.6866,153356
+MSD Radix Sort,common_prefix,2400,19.0562,125647
+MSD Radix + TStrQSort,common_prefix,2400,17.3864,132861
+QuickSort (std),common_prefix,2500,44.0775,1567981
+MergeSort (std),common_prefix,2500,39.416,1289009
+Ternary String QSort,common_prefix,2500,4.50217,152074
+String MergeSort (LCP),common_prefix,2500,11.2068,159987
+MSD Radix Sort,common_prefix,2500,19.9348,130919
+MSD Radix + TStrQSort,common_prefix,2500,18.2795,138493
+QuickSort (std),common_prefix,2600,46.0449,1637705
+MergeSort (std),common_prefix,2600,41.2361,1349516
+Ternary String QSort,common_prefix,2600,4.74594,159596
+String MergeSort (LCP),common_prefix,2600,11.6772,166726
+MSD Radix Sort,common_prefix,2600,20.8296,136196
+MSD Radix + TStrQSort,common_prefix,2600,18.8708,144154
+QuickSort (std),common_prefix,2700,54.0864,1737479
+MergeSort (std),common_prefix,2700,43.0995,1409460
+Ternary String QSort,common_prefix,2700,4.94191,165978
+String MergeSort (LCP),common_prefix,2700,12.1218,173562
+MSD Radix Sort,common_prefix,2700,21.5897,141478
+MSD Radix + TStrQSort,common_prefix,2700,19.5239,149517
+QuickSort (std),common_prefix,2800,51.0155,1813721
+MergeSort (std),common_prefix,2800,44.9344,1470525
+Ternary String QSort,common_prefix,2800,5.17328,171790
+String MergeSort (LCP),common_prefix,2800,12.655,180336
+MSD Radix Sort,common_prefix,2800,22.5005,146749
+MSD Radix + TStrQSort,common_prefix,2800,20.331,155437
+QuickSort (std),common_prefix,2900,52.2115,1856947
+MergeSort (std),common_prefix,2900,46.8129,1531093
+Ternary String QSort,common_prefix,2900,5.34445,179269
+String MergeSort (LCP),common_prefix,2900,13.1689,187047
+MSD Radix Sort,common_prefix,2900,23.769,152015
+MSD Radix + TStrQSort,common_prefix,2900,21.9479,161137
+QuickSort (std),common_prefix,3000,53.8052,1913163
+MergeSort (std),common_prefix,3000,48.5554,1590161
+Ternary String QSort,common_prefix,3000,5.54298,184148
+String MergeSort (LCP),common_prefix,3000,13.5981,193816
+MSD Radix Sort,common_prefix,3000,24.1802,157280
+MSD Radix + TStrQSort,common_prefix,3000,21.8045,166967
